@@ -1,5 +1,7 @@
 # twitter-bot-with-selenium
- A basic bot that makes actions in twitter account
+ A basic bot that makes actions in twitter account.
+
+
 Twitter için geliştirilmiş bir bottur.
 Bu bot ile;
 -Twitter kullanıcı giişi,
